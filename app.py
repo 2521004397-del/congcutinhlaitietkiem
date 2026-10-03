@@ -5,7 +5,7 @@ import pandas as pd
 # CẤU HÌNH TRANG
 # =========================
 st.set_page_config(
-    page_title="Tính lãi tiền gửi tiết kiệm_Hà Ngọc Thảo Tiên",
+    page_title="Tính lãi tiền gửi tiết kiệm",
     page_icon="💰",
     layout="centered"
 )
@@ -59,7 +59,7 @@ def format_currency(value):
 # TIÊU ĐỀ
 # =========================
 st.markdown(
-    '<div class="main-title">💰 TÍNH LÃI TIỀN GỬI TIẾT KIỆM_Hà Ngọc Thảo Tiên</div>',
+    '<div class="main-title">💰 TÍNH LÃI TIỀN GỬI TIẾT KIỆM_Thảo Tiên</div>',
     unsafe_allow_html=True
 )
 
