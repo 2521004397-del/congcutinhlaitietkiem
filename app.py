@@ -59,7 +59,7 @@ def format_currency(value):
 # TIÊU ĐỀ
 # =========================
 st.markdown(
-    '<div class="main-title">💰 TÍNH LÃI TIỀN GỬI TIẾT KIỆM</div>',
+    '<div class="main-title">💰 TÍNH LÃI TIỀN GỬI TIẾT KIỆM_Hà Ngọc Thảo Tiên</div>',
     unsafe_allow_html=True
 )
 
